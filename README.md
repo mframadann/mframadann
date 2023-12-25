@@ -1,16 +1,27 @@
-### Hi there 👋
+```go
+package main
 
-<!--
-**meowdevv/meowdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+import (
+	"fmt"
+)
 
-Here are some ideas to get you started:
+type MeowDevvBio map[string]string
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() MeowDevvBio {
+	return MeowDevvBio{
+		"- ⚡ Quick bio:":                     "A kind of Programmer, Coder, Cat Lovers😺",
+		"- 🔭 I’m currently working on":      "Kominfo as Junior Software Engineer",
+		"- 🌱 I’m currently learning":        "Golang, Keycloack, Docker, Vue JS",
+		"- 👯 I’m looking to collaborate on": "Node.js, Javascript, Typescript ,Golang and Docker related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning:D",
+		"- 💬 Ask me about":                  "Node.js, React.JS, Next.js, Golang, PHP, Laravel, SQL, Software Design & Architecture, Web Development and SEO",
+		"- 📫 How to reach me:":              "https://github.com/meowdevv",
+	}
+}
+```
