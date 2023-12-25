@@ -2,8 +2,8 @@
 
 <img align='right' src='https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-mframadann=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mframadann)](https://twitter.com/mframadann)
-[![Linkedin Badge](https://img.shields.io/badge/-muhamad-firly-ramadan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-firly-ramadan/)](https://www.linkedin.com/in/muhamad-firly-ramadan/)
+[![Twitter Badge](https://img.shields.io/badge/mframadann?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mframadann)](https://twitter.com/mframadann)
+[![Linkedin Badge](https://img.shields.io/badge/muhamad-firly-ramadan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-firly-ramadan/)](https://www.linkedin.com/in/muhamad-firly-ramadan/)
 [![Gmail Badge](https://img.shields.io/badge/-dev.ramadann@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.ramadann@gmail.com)](mailto:dev.ramadann@gmail.com)
 
 I am Muhamad Firly Ramadan 😃. I am from Cirebon, West Java, Indonesia. I love to explore and learn about technologies.
