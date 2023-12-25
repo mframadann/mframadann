@@ -1,5 +1,4 @@
-<img align='center' src='https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif' width='200"'>
-<h2>Hello There, Fellow Developers!!</h2>
+<img align='center' src='https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif' width='200"'> <h1>Hello There, Fellow Developers!!</h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@mframadann-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/mframadann)](https://twitter.com/mframadann)
 [![Hackerrank Badge](https://img.shields.io/badge/-dev.ramadann-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/dev_ramadann)](https://www.hackerrank.com/profile/dev_ramadann)
