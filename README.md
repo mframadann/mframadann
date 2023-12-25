@@ -1,5 +1,4 @@
 <h2> Hello There, Fellow <Developers/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img align='right' src='https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@mframadann-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/mframadann)](https://twitter.com/mframadann)
 [![Hackerrank Badge](https://img.shields.io/badge/-dev.ramadann-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/dev_ramadann)](https://www.hackerrank.com/profile/dev_ramadann)
