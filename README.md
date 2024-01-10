@@ -33,7 +33,7 @@ func GetBio() MeowDevvBio {
         "- 👯 I’m looking to collaborate on": "Node.js, Javascript, Typescript ,Golang and Docker related projects",
         "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning:D",
         "- 💬 Ask me about":                  "Node.js, React.JS, Next.js, Golang, PHP, Laravel, SQL, Software Design & Architecture, Web Development and SEO",
-        "- 📫 How to reach me:":              "https://github.com/meowdevv",
+        "- 📫 How to reach me:":              "https://instagram.com/mframadann",
     }
 }
 ```
