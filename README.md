@@ -27,7 +27,7 @@ func main() {
 
 func GetBio() MeowDevvBio {
     return MeowDevvBio{
-        "- ⚡ Quick bio:":                     "A kind of Programmer, Coder, Cat Lovers😺",
+        "- ⚡ Quick bio:":                    "A kind of Programmer, Coder, Cat Lovers😺",
         "- 🔭 I’m currently working on":      "Kominfo as Junior Software Engineer",
         "- 🌱 I’m currently learning":        "Golang, Keycloack, Docker, Vue JS, Livewire",
         "- 👯 I’m looking to collaborate on": "Node.js, Javascript, Typescript ,Golang and Docker related projects",
