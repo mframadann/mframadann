@@ -25,7 +25,7 @@ func main() {
     }
 }
 
-func GetBio() MeowdevvBio {
+func GetBiodata() MeowdevvBio {
     return MeowdevvBio{
         "- ⚡ Quick bio:":                    "A kind of Programmer, Coder, Cat Lovers😺",
         "- 🔭 I’m currently working on":      "Kominfo as Junior Software Engineer",
