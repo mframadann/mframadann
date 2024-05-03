@@ -15,7 +15,7 @@ import (
     "fmt"
 )
 
-type MeowdevvBio map[string]string
+type LyyyDevBio map[string]string
 
 func main() {
     fmt.Println("I am Muhamad Firly Ramadan 😃. I am from Cirebon, West Java, Indonesia. I love to explore and learn about technologies.")
@@ -25,8 +25,8 @@ func main() {
     }
 }
 
-func GetBiodata() MeowdevvBio {
-    return MeowdevvBio{
+func GetBiodata() LyyyDevBio {
+    return LyyyDevBio{
         "- ⚡ Quick bio:":                    "A kind of Programmer, Coder, Cat Lovers😺",
         "- 🔭 I’m currently working on":      "Kominfo as Junior Software Engineer",
         "- 🌱 I’m currently learning":        "Golang, Keycloack, Docker, Vue JS, Livewire, Filament, Next.js, MySQL",
