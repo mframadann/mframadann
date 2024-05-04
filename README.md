@@ -15,7 +15,7 @@ import (
     "fmt"
 )
 
-type LyyyDevBio map[string]string
+type LyyrmBio map[string]string
 
 func main() {
     fmt.Println("I am Muhamad Firly Ramadan 😃. I am from Cirebon, West Java, Indonesia. I love to explore and learn about technologies.")
