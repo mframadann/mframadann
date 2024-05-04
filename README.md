@@ -20,7 +20,7 @@ type LyyrmBio map[string]string
 func main() {
     fmt.Println("I am Muhamad Firly Ramadan 😃. I am from Cirebon, West Java, Indonesia. I love to explore and learn about technologies.")
 
-    for k, v := range GetBio() {
+    for k, v := range GetBiodata() {
         fmt.Printf("%+v: %+v\n", k, v)
     }
 }
