@@ -25,8 +25,8 @@ func main() {
     }
 }
 
-func GetBiodata() LyyyDevBio {
-    return LyyyDevBio{
+func GetBiodata() LyyrmBio {
+    return LyyrmBio{
         "- ⚡ Quick bio:":                    "A kind of Programmer, Coder, Cat Lovers😺",
         "- 🔭 I’m currently working on":      "Kominfo as Junior Software Engineer",
         "- 🌱 I’m currently learning":        "Golang, Keycloack, Docker, Vue JS, Livewire, Filament, Next.js, MySQL",
