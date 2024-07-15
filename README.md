@@ -27,7 +27,7 @@ func main() {
 
 func GetBiodata() LyyrmBio {
     return LyyrmBio{
-        "- ⚡ Quick bio:":                    "A kind of Programmer, Mentor, Coder, Cat Lovers😺 and your friend:D",
+        "- ⚡ Quick bio:":                     "A kind of Programmer, Mentor, Coder, Cat Lovers😺 and your friend:D",
         "- 🌱 I’m currently learning":        "Golang, Keycloack, Docker, Vue JS, Livewire, Filament, Next.js, MySQL",
         "- 👯 I’m looking to collaborate on": "Node.js, Javascript, Typescript ,Golang and Docker related projects",
         "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning:D",
