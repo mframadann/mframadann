@@ -1,13 +1,3 @@
-  <p align="center">
-    <img title="" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" alt=""  width="301" >
-  </p>
- <h1>Hello There, Fellow Developers 🙌.</h1>
-
-[![Twitter Badge](https://img.shields.io/badge/-@mframadann-000000?style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/mframadann)](https://twitter.com/mframadann)
-[![Hackerrank Badge](https://img.shields.io/badge/-dev.ramadann-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/dan_alphadev)](https://www.hackerrank.com/profile/dan_alphadev)
-[![Linkedin Badge](https://img.shields.io/badge/-Muhamad%20Firly%20Ramadan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-firly-ramadan/)](https://www.linkedin.com/in/muhamad-firly-ramadan/)
-[![Gmail Badge](https://img.shields.io/badge/-dev.ramadann@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.ramadann@gmail.com)](mailto:dev.ramadann@gmail.com)
-
 ```go
 package main
 
@@ -15,24 +5,22 @@ import (
     "fmt"
 )
 
-type LyyrmBio map[string]string
+type MyBio map[string]string
 
 func main() {
-    fmt.Println("I am Muhamad Firly Ramadan 😃. I am from Cirebon, West Java, Indonesia. I love to explore and learn about technologies.")
+    fmt.Println("Hi!, My name is Muhamad Firly Ramadan 😃. I am from Cirebon, West Java, Indonesia. I love to explore and learn about programming.")
 
     for k, v := range GetBiodata() {
         fmt.Printf("%+v: %+v\n", k, v)
     }
 }
 
-func GetBiodata() LyyrmBio {
-    return LyyrmBio{
-        "- ⚡ Quick bio:":                     "A kind of Programmer, Mentor, Coder, Cat Lovers😺 and your friend:D",
-        "- 🌱 I’m currently learning":        "Golang, Keycloack, Docker, Vue JS, Livewire, Filament, Next.js, MySQL",
-        "- 👯 I’m looking to collaborate on": "Node.js, Javascript, Typescript ,Golang and Docker related projects",
-        "- 🤔 I’m looking for help with":     "Anything related to what I am currently learning:D",
-        "- 💬 Ask me about":                  "Node.js, React.JS, Next.js, Golang, PHP, Laravel, SQL, Software Design & Architecture, Web Development and SEO",
-        "- 📫 How to reach me:":              "https://instagram.com/mframadann",
+func GetBiodata() MyBio {
+    return MyBio{
+        "name":     "Muhamad Firly Ramadan",
+        "pronous":  "He/Him",
+        "role":     "Back End Developer",
+        "skills":   "Javascript, Typescript, Next.js, Nest.js, Golang, PHP, Laravel, Git, Docker, MySQL/PostgreSQL, MongoDB",
     }
 }
 ```
